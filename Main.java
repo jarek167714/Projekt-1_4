@@ -19,6 +19,11 @@ class Main {
             System.out.println("a ^ b = "+power);
             break;
           }
+        case 2:
+          {
+            System.out.println("suma pierwiastków: \n Podaj a i b");
+            
+          }
       }
   }
   
